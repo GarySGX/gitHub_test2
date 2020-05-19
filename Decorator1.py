@@ -17,7 +17,7 @@ def f(x):
    return x + x * x
 
 f = logged(f)
-
+print("hello")
 print(f.__name__)
 
 
